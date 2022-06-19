@@ -2,7 +2,6 @@
 
 
 
-
 ## 1-Click Deploy
 <a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg" width="250px" /></a>
 
